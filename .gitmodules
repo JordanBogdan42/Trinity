@@ -1,0 +1,3 @@
+[submodule "triggerscan"]
+	path = triggerscan
+	url = https://gitlab.com/jem-euso/euso-spb2/ct/triggerscan.git
